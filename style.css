@@ -1,0 +1,36 @@
+.name{
+    color: #FFFFFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+
+font-weight: 400;
+
+padding:50px 531px 0px 530px; */
+margin-bottom: 0px;
+}
+
+.title{
+    color: #FFFFFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+padding: 90px 344px 277px 344px;
+margin-top: 5px;
+}
+
+.banner{ 
+    background-image: url('resources/Banner\ Image.png');
+    border-radius: 16px;
+    
+    
+    background: #070211, #07021100
+
+width: 1320px;
+height: 600px;
+flex-shrink: 0;
+border: 50px 140px 665px 140px; */
+}
